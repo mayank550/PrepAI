@@ -88,8 +88,7 @@ export const Footer = () => {
           {/* Fourth Column: Address and Social Media */}
           <div>
             <h3 className="font-bold text-lg mb-4">Contact Us</h3>
-            <p className="mb-4">www.linkedin.com/in/krati-bajpai-385001292
-                www.linkedin.com/in/himani-garg-551937255
+            <p className="mb-4">https://www.linkedin.com/in/mayank-mishra-127174228/
             </p>
             <div className="flex gap-4">
               <SocialLink
